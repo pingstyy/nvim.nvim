@@ -1,0 +1,61 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.minimap.enabled": false,
+  "animations.Install-Method": "Apc Customize UI++",
+  "apc.imports": [
+    "file://${userHome}/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+  ],
+  "apc.activityBar": {},
+  "apc.electron": {
+    "opacity": 0.95,
+    "transparent": true,
+    "backgroundColor": "#00000000",
+    "vibrancy": "ultra-dark"
+  },
+  "workbench.colorCustomizations": {
+    "terminal.background": "#00000000"
+  },
+  "terminal.integrated.gpuAcceleration": "off",
+  "window.titleBarStyle": "custom",
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "workbench.preferredHighContrastLightColorTheme": "Default Dark+",
+  "workbench.iconTheme": "glyph.legacy",
+  "workbench.productIconTheme": "material-product-icons",
+  "extensions.ignoreRecommendations": true,
+
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.location": "hidden",
+  "editor.lineNumbers": "off",
+  "editor.guides.indentation": false,
+  "workbench.tips.enabled": false,
+  "workbench.editor.showTabs": "none",
+  "breadcrumbs.enabled": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.scrollbar.verticalScrollbarSize": 1,
+  "editor.scrollbar.horizontalScrollbarSize": 2,
+  "window.systemColorTheme": "dark",
+  "window.autoDetectColorScheme": false,
+  "workbench.colorTheme": "Default Dark+",
+  // "workbench.colorCustomizations": {
+  //       "scrollbar.shadow": "#FFFFFF",  // Scrollbar track color
+  //       "scrollbarSlider.background": "#FFFFFF",  // Scrollbar thumb color
+  //       "scrollbarSlider.hoverBackground": "#FFFFFF",  // Scrollbar thumb color on hover
+  //       "scrollbarSlider.activeBackground": "#FFFFFF"  // Scrollbar thumb color when active
+  //   }
+  // "editor.padding.left": 1,
+  // "editor.glyphMargin": false,
+  // "editor.folding": false,
+  // "editor.cursorBlinking": "expand",
+  // "editor.cursorSmoothCaretAnimation": "on",
+  // "vscode_vibrancy.opacity": 0.6,
+  // "vscode_vibrancy.refreshInterval": 1,
+  // "window.systemColorTheme": "dark",
+  // "window.autoDetectColorScheme": false,
+  // "workbench.colorTheme": "Default Dark+",
+  // "vscode_vibrancy.imports": [
+
+  //   "/path/to/file"
+  // ],
+}
